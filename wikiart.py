@@ -5,7 +5,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 from torchvision.io import read_image
 import matplotlib.pyplot as plt
-import torchvision.transforms.functional as F
+#import torchvision.transforms.functional as F
 import tqdm
 import torch.optim as optim
 import torch.nn.init as init
