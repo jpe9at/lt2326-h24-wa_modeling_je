@@ -12,6 +12,8 @@ from wikiart import WikiArtDataset, WikiArtModel, CNNWikiArt
 import json
 import argparse
 
+import Trainer
+
 from sklearn.model_selection import StratifiedShuffleSplit
 from torch.utils.data import Subset
 
