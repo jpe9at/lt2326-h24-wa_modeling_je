@@ -3,6 +3,6 @@
     "trainingdir": "../train",
     "testingdir": "../test",
     "device": "cuda:3",
-    "epochs": 20,
+    "epochs": 2,
     "batch_size": 32
 }
